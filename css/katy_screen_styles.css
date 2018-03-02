@@ -95,7 +95,7 @@ a.cta:hover {
 }
 
 .photo {
-	pos
+	max-width: 100px;
 }
 
 nav a {
